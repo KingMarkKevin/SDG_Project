@@ -1,5 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { GoogleChartsModule } from 'angular-google-charts';
 
 
 import { AppRoutingModule } from './app-routing.module';
@@ -20,7 +21,7 @@ import { ChartComponent } from './chart/chart.component';
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-
+    GoogleChartsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

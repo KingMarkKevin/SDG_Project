@@ -1,0 +1,28 @@
+
+body {
+  background-color: white;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 18px;
+}
+
+h4 {
+  font-family: verdana;
+  font-size: 18px;
+}
+li {
+  font-family: verdana;
+  font-size: 18px;
+}
+
+.a {
+  font-family: verdana;
+  font-size: 20px;
+}
